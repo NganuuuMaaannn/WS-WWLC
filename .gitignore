@@ -1,0 +1,7 @@
+# Laravel Vendor & Dependencies
+/vendor/
+/node_modules/
+
+# Environment Files
+.env
+
